@@ -9,7 +9,7 @@
 - tests - containts test and result images. Also contains collage to demonstrate it all together
 
 #### Usage:
-All required package listed in "requirements.txt". 
+All required packages listed in "requirements.txt". 
 Example usage is shown in "tests/test.py".
 
 #### Results:
